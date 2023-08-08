@@ -30,7 +30,7 @@ Ensure that the script file and source PDFs are in the same directory.
 This project is for educational purposes and provided as-is. Use at your own risk.
 
 **Author:**
-Your Name
+Uutgi
 
 **License:**
 This project is licensed under the MIT License.
